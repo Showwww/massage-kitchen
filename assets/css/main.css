@@ -4056,8 +4056,14 @@ input, select, textarea {
 }
 .btn_more  li{
   display: block;
-  margin: 0 auto;
 }
+.spotlight {
+  justify-content: space-around;
+}
+.clients{
+  padding: 2em;
+}
+
 
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
